@@ -1,5 +1,10 @@
 # GeminiLineBot
 
+[Gemini]:how to create API keys  
+https://makersuite.google.com/app/prompts/new_freeform
+
+  ![mole](https://github.com/bowwowxx/GeminiLineBot/blob/main/GEMINIAPI.jpg)  
+  
 ### 1.Set parameters in the configuration file(.env)
 ```
 GEMINI_API_KEY = xxx
